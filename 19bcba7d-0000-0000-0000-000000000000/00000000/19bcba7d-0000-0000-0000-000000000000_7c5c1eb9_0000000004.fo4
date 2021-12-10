@@ -1,0 +1,61 @@
+{
+  "Id": "e14f8a48-2aee-4d92-9f69-1793e6d8ed22",
+  "CollectionId": "7c5c1eb9-4732-4dae-91bb-df71e0b53957",
+  "Creator": {
+    "Id": "19bcba7d-0000-0000-0000-000000000000",
+    "Type": 30,
+    "Name": "TetianaLutsenko/a_restore_bbdisc"
+  },
+  "Type": 2,
+  "CreationDateUTC": 1638446725126,
+  "Size": "0000000000003149328",
+  "DataSize": 2054,
+  "TakenDataSize": 3316,
+  "Label": "Plan #5 GH",
+  "Properties": "CAAAAJABAAAEAAAADQAAAP0BAABaU1REQ29kZWMjAAAA/gEAAHsiY29tcHJlc3Npb25MZXZlbCI6IlN0YW5kYXJkIn0EAAAA/wEAABcAAAAAAgAAU3RvcmFnZURyaXZlbk1ldGhvZBsAAAABAgAAeyJpZGVudGlmaWVyTGVuZ3RoIjo0OH0=",
+  "CustomData": {
+    "backupPlanType": 5,
+    "backupPlanCreationDate": 1638275948034,
+    "encryptionKeyId": "00000000-0000-0000-0000-000000000000",
+    "encryptionKeyName": ""
+  },
+  "PreviousId": "66dbb4d8-5c04-4e58-af93-82ae75b27afb",
+  "DatabaseName": "ListTreeDatabase",
+  "DatabaseProperties": {
+    "storeName": "LightningStore",
+    "storeProperties": {
+      "path": "Auto"
+    }
+  },
+  "DictionaryName": "LightningStore",
+  "DictionaryProperties": {
+    "path": "Auto"
+  },
+  "HasDatabase": true,
+  "DataTypes": [
+    2,
+    1
+  ],
+  "Resources": [
+    {
+      "ContentTypeName": "db4",
+      "Size": 1048576
+    },
+    {
+      "ContentTypeName": "dp4",
+      "Size": 1374
+    },
+    {
+      "ContentTypeName": "dd4",
+      "Size": 1048576
+    },
+    {
+      "ContentTypeName": "mp4",
+      "Size": 680
+    },
+    {
+      "ContentTypeName": "md4",
+      "Size": 1048576
+    }
+  ]
+}
